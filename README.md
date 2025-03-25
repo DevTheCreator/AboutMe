@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm from Vitória, Espírito Santo, Brasil<br><br>- 🔭 I work managing innovation projects in the industry, specifically in the pulp and paper sector.<br>- 📚 Diving deeper into Machine Learning and Artificial Intelligence focused on the job market.<br>- ⚡ In my free time, I surf, explore new places, and plan my future.</p>
+<p align="left">I'm from Vitória, Espírito Santo, Brasil<br><br>- 🔭 I work managing innovation projects in the industry, specifically in the pulp and paper sector.<br>- 📚 Diving deeper into Machine Learning and Artificial Intelligence focused on the industry and the market..<br>- ⚡ In my free time, I surf, explore new places, and plan my future.</p>
 
 ###
 
